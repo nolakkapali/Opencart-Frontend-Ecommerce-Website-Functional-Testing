@@ -1,4 +1,4 @@
-# Login-page-functional-testing
+# Functional-testing of Opencart 
 Login page includes:
 
 1.Registration page
