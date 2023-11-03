@@ -1,20 +1,23 @@
 # Functional-testing of Opencart 
-Login page includes:
-
-1.Registration page
-
-2.Login page
 
 Testing documentation:
 
-1.Test cases
+1. Test plan
+   
+2.Test scenarios and test cases development
 
-2.Bug report
+3.Test cases execution
+
+4.Requirment traceability matrix(RTM)
+
+5.Bug report
+
+6.Test report
 
 Technical tools:
 
 Website : https://demo.opencart.com/index.php?route=common/home&language=en-gb
 
-Testcase : Microsoft Excel
+Platform: Google Docs, Google Sheets
 
-Bug reports: JIRA
+
