@@ -1,6 +1,10 @@
 # Functional-testing of Opencart 
 
+Opencart is an ecommerce demo website which showcase an real ecommerce website features.It sells technicals stuffs and also it has payment options.
+Functional testing has been done in this ecommerce website. The required documents and tools that needed to do the testing are given below:
+
 Testing documentation:
+
 1. Test plan
    
 2.Test scenarios and test cases development
