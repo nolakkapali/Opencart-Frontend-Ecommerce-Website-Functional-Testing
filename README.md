@@ -21,6 +21,10 @@ Technical tools:
 
 Website : https://demo.opencart.com/index.php?route=common/home&language=en-gb
 
+Project Management Tool : ClickUp,Jira.
+
+Bug Tracking Tool: Jira
+
 Platform: Google Docs, Google Sheets
 
 
